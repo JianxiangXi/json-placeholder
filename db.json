@@ -1,4 +1,5 @@
 {
+  list: {
   "firstName": "Darin",
   "lastName": "Daignault",
   "email": "ddaignault@hubspotpartners.com",
@@ -7,4 +8,5 @@
     "2017-05-03",
     "2017-05-06"
   ]
+  }
 }
