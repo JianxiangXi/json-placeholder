@@ -1,1 +1,10 @@
-
+{
+  "firstName": "Darin",
+  "lastName": "Daignault",
+  "email": "ddaignault@hubspotpartners.com",
+  "country": "United States",
+  "availableDates": [
+    "2017-05-03",
+    "2017-05-06"
+  ]
+}
